@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shkbshakir-sketch.github.io/pdf-tools-online/sitemap.xml
